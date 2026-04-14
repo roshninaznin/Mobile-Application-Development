@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FitnessTrackerApp</string>
+    <string name="percent_text">%d%%</string>
+</resources>
