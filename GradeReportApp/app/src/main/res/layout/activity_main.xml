@@ -1,0 +1,127 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="50dp"
+    android:padding="20dp">
+
+    <!-- STUDENT INFO -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Student Grading Report"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:padding="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="13dp"
+        android:text="Name: Naznin Akter Roshmny"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="13dp"
+        android:text="ID: 22-46092-1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="13dp"
+        android:text="Semester: 11th"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Department: CSE"
+        android:textStyle="bold"
+        android:textSize="13dp"
+        android:layout_marginBottom="30dp"/>
+
+    <!-- TABLE -->
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*">
+
+        <!-- HEADER -->
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#2196F3"
+            android:padding="8dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Subject"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Obtained"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Total"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Grade"/>
+        </TableRow>
+
+    </TableLayout>
+
+    <!-- INPUT -->
+    <EditText
+        android:id="@+id/etSubject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Subject"/>
+
+    <EditText
+        android:id="@+id/etMarks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Marks Obtained"
+        android:inputType="number"/>
+
+    <EditText
+        android:id="@+id/etTotal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Total Marks"
+        android:inputType="number"/>
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Subject"/>
+
+    <!-- GPA -->
+    <TextView
+        android:id="@+id/tvGPA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GPA: 0.0"
+        android:textSize="18sp"
+        android:layout_marginTop="10dp"/>
+
+    <!-- SHARE -->
+    <Button
+        android:id="@+id/btnShare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Print / Share"/>
+
+</LinearLayout>
