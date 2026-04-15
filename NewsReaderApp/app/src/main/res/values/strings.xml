@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">NewsReaderApp</string>
+
+    <string name="title">The Daily Reader</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="share">Share</string>
+    <string name="header">Header Image</string>
+
+    <string name="category">TECHNOLOGY</string>
+    <string name="article_title">AI is Changing the Future</string>
+
+    <string name="author">By Naznin Akter Roshmny</string>
+    <string name="date">15 April 2026</string>
+
+    <string name="intro_btn">Introduction</string>
+    <string name="key_btn">Key Points</string>
+    <string name="analysis_btn">Analysis</string>
+    <string name="conclusion_btn">Conclusion</string>
+
+    <string name="intro_title">Introduction</string>
+    <string name="intro_text">Artificial Intelligence (AI) is one of the most important technologies of the modern world. It allows machines and software to think, learn, and make decisions like humans. AI is being widely used in many fields such as healthcare, education, transportation, and business. It helps improve efficiency, reduce manual work, and solve complex problems faster. In today’s digital era, AI is becoming a major part of everyday life and continues to grow rapidly.
+    Artificial Intelligence (AI) is one of the most important technologies of the modern world. It allows machines and software to think, learn, and make decisions like humans. AI is being widely used in many fields such as healthcare, education, transportation, and business. It helps improve efficiency, reduce manual work, and solve complex problems faster. In today’s digital era, AI is becoming a major part of everyday life and continues to grow rapidly.</string>
+
+    <string name="key_title">Key Points</string>
+    <string name="key_text">
+        Artificial Intelligence (AI) is one of the most important technologies of the modern world. It allows machines and software to think, learn, and make decisions like humans. AI is being widely used in many fields such as healthcare, education, transportation, and business. It helps improve efficiency, reduce manual work, and solve complex problems faster. In today’s digital era, AI is becoming a major part of everyday life and continues to grow rapidly.
+        Artificial Intelligence (AI) is one of the most important technologies of the modern world. It allows machines and software to think, learn, and make decisions like humans. AI is being widely used in many fields such as healthcare, education, transportation, and business. It helps improve efficiency, reduce manual work, and solve complex problems faster. In today’s digital era, AI is becoming a major part of everyday life and continues to grow rapidly.
+        Artificial Intelligence (AI) is one of the most important technologies of the modern world. It allows machines and software to think, learn, and make decisions like humans. AI is being widely used in many fields such as healthcare, education, transportation, and business. It helps improve efficiency, reduce manual work, and solve complex problems faster. In today’s digital era, AI is becoming a major part of everyday life and continues to grow rapidly.</string>
+
+    <string name="analysis_title">Analysis</string>
+    <string name="analysis_text">While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.
+    While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.
+    While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.
+    While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.
+    While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.
+    While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.
+    While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.</string>
+
+    <string name="conclusion_title">Conclusion</string>
+    <string name="conclusion_text">AI is the future, but it must be handled carefully for maximum benefit.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.
+    While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.
+    While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.While AI offers many benefits, it also raises concerns about job loss, privacy, and ethics. Proper regulation is necessary.</string>
+
+    <string name="tags">Tags:</string>
+    <string name="tag_ai">AI</string>
+    <string name="tag_tech">Tech</string>
+    <string name="tag_future">Future</string>
+
+    <string name="top">↑</string>
+
+</resources>
