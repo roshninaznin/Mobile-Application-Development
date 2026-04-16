@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- SEARCH -->
+    <item
+        android:id="@+id/menu_search"
+        android:title="@string/search"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="collapseActionView|ifRoom"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+
+    <!-- TOGGLE -->
+    <item
+        android:id="@+id/menu_toggle"
+        android:title="@string/toggle"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        app:showAsAction="ifRoom" />
+
+    <!-- CART -->
+    <item
+        android:id="@+id/menu_cart"
+        android:title="@string/cart"
+        app:showAsAction="never" />
+
+</menu>

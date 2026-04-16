@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ECommerceApp</string>
+    <string name="toggle_view">Toggle View</string>
+    <string name="checkout">Checkout</string>
+    <string name="total_text">Total: $%1$.2f</string>
+    <string name="no_products">No products found</string>
+    <string name="product_image">Product image</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="product_image2">Product image</string>
+    <string name="add">Add</string>
+    <string name="category">Category</string>
+    <string name="price_format">Price: $%1$.2f</string>
+    <string name="total_format">Total: $%1$.2f</string>
+    <string name="cart_item_format">%1$s - $%2$.2f</string>
+    <string name="search">Search</string>
+    <string name="toggle">Toggle</string>
+    <string name="cart">Cart</string>
+</resources>
